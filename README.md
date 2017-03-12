@@ -1,4 +1,4 @@
-# udacity_deep-learning-project02
+# udacity-deep-learning-project02
 Udacity image classification project using CIFAR 10 images and tensorflow using Jupyter notebook and Python 3.5
 
 This project built a convolutional neural network using the CIFAR-10 dataset. The goal was to predict the class for 60000 32x32 pixed images.  All images are among one of 10 classes.
